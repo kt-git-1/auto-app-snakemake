@@ -1,0 +1,6 @@
+project_accession: "PRJXXXXX"   # プロジェクト番号を記入
+base_directory: "/Your Absolute Path/auto-app/data/row_data"
+output_directory: "/Your Absolute Path/auto-app/data/output_data"
+nextflow_path: "/Your Absolute Path/auto-app/nextflow"
+nextflow_merge_script: "/Your Absolute Path/auto-app/nextflow_conf/nextflow_merge_script.nf"
+nextflow_run_script: "/Your Absolute Path/auto-app/nextflow_conf/nextflow_run_script.nf"
